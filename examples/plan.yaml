@@ -1,0 +1,85 @@
+options:
+  - legs:
+      - origins:
+          - "STR"
+          - "FRA"
+          - "MUC"
+        destinations:
+          - "PEK"
+        dates:
+          - "2025-12-21"
+          - "2025-12-22"
+          - "2025-12-23"
+          - "2025-12-24"
+      - origins:
+#          - "HAN"
+          - "SGN"
+        destinations:
+          - "STR"
+          - "MUC"
+          - "FRA"
+        dates:
+          - "2026-01-09"
+          - "2026-01-10"
+          - "2026-01-11"
+          - "2026-01-12"
+          - "2026-01-13"
+    passengers:
+      adults: 1
+    filters:
+      - __name: LuggageSearchFilter
+        checked: 1
+    seat: Economy
+    currency: EUR
+    name: MainLegs
+#  - legs:
+#      - origins:
+#          - "PEK"
+#          - "PKX"
+#        destinations:
+#          - "HAN"
+##          - "DAD"
+#          - "SGN"
+#        dates:
+#          - "2025-12-27"
+#          - "2025-12-28"
+#          - "2025-12-29"
+#          - "2025-12-30"
+#          - "2025-12-31"
+#    passengers:
+#      adults: 1
+#    filters:
+#      - __name: LuggageSearchFilter
+#        checked: 1
+#    seat: Economy
+#    currency: EUR
+#    name: ToVietnam
+
+collectors:
+#  - KLMSearchCollector
+  - GoogleSearchCollector
+restrictions:
+  - __name: CollectorJourneyRestriction
+    collectors:
+      - KLMSearchCollector
+    origins:
+      - PEK
+      - PKX
+    destinations:
+      - HAN
+      - DAD
+      - SGN
+  - __name: CollectorJourneyRestriction
+    collectors:
+      - KLMSearchCollector
+    origins:
+      - SGN
+    destinations:
+      - MUC
+      - FRA
+ranker:
+  __name: DefaultRanker
+  extra_properties:
+    - __name: StopRankProperty
+      stop_values:
+        STR: 1

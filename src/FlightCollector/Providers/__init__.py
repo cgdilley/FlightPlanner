@@ -1,0 +1,2 @@
+from FlightCollector.Providers.Google import GoogleSearchCollector
+from FlightCollector.Providers.KLM import KLMSearchCollector
