@@ -1,0 +1,1185 @@
+Results for plan "MainLegs":
+---------------------------------
+
+Score = 0.7381
+[KLMSearchCollector]
+ 1352 EUR
+  * Sun 21 Dec, 2025 (14:50) - Mon 22 Dec, 2025 (17:40)
+    19h50
+    687 EUR, Economy, Air France/Air France
+    STR -> CDG -> PEK
+
+  * Mon 12 Jan, 2026 (19:00) - Tue 13 Jan, 2026 (09:15)
+    20h15
+    665 EUR, Economy, Malaysia/KLM/KLM
+    SGN -> KUL -> AMS -> STR
+
+
+Score = 0.7381
+[KLMSearchCollector]
+ 1352 EUR
+  * Mon 22 Dec, 2025 (14:50) - Tue 23 Dec, 2025 (17:40)
+    19h50
+    687 EUR, Economy, Air France/Air France
+    STR -> CDG -> PEK
+
+  * Mon 12 Jan, 2026 (19:00) - Tue 13 Jan, 2026 (09:15)
+    20h15
+    665 EUR, Economy, Malaysia/KLM/KLM
+    SGN -> KUL -> AMS -> STR
+
+
+Score = 0.7381
+[KLMSearchCollector]
+ 1352 EUR
+  * Tue 23 Dec, 2025 (14:50) - Wed 24 Dec, 2025 (17:40)
+    19h50
+    687 EUR, Economy, Air France/Air France
+    STR -> CDG -> PEK
+
+  * Mon 12 Jan, 2026 (19:00) - Tue 13 Jan, 2026 (09:15)
+    20h15
+    665 EUR, Economy, Malaysia/KLM/KLM
+    SGN -> KUL -> AMS -> STR
+
+
+Score = 0.7367
+[GoogleSearchCollector]
+ 1196 €
+  * Wed 24 Dec, 2025 (18:50) - Thu 25 Dec, 2025 (16:15)
+    14h25
+    622 €, Economy, Turkish Airlines/?
+    STR -> IST -> PEK
+
+  * Tue 13 Jan, 2026 (06:35) - Tue 13 Jan, 2026 (17:55)
+    17h20
+    574 €, Economy, Turkish Airlines/?
+    SGN -> IST -> STR
+
+
+Score = 0.7353
+[GoogleSearchCollector]
+ 1151 €
+  * Wed 24 Dec, 2025 (18:50) - Thu 25 Dec, 2025 (16:15)
+    14h25
+    622 €, Economy, Turkish Airlines/?
+    STR -> IST -> PEK
+
+  * Mon 12 Jan, 2026 (19:40) - Tue 13 Jan, 2026 (10:10)
+    20h30
+    529 €, Economy, Qatar Airways/Lufthansa
+    SGN -> DOH -> STR
+
+
+Score = 0.7349
+[KLMSearchCollector]
+ 1443 EUR
+  * Mon 22 Dec, 2025 (11:55) - Tue 23 Dec, 2025 (09:55)
+    15h00
+    777 EUR, Economy, KLM/KLM
+    STR -> AMS -> PEK
+
+  * Mon 12 Jan, 2026 (19:00) - Tue 13 Jan, 2026 (09:15)
+    20h15
+    665 EUR, Economy, Malaysia/KLM/KLM
+    SGN -> KUL -> AMS -> STR
+
+
+Score = 0.7347
+[GoogleSearchCollector]
+ 1277 €
+  * Wed 24 Dec, 2025 (18:50) - Thu 25 Dec, 2025 (16:15)
+    14h25
+    622 €, Economy, Turkish Airlines/?
+    STR -> IST -> PEK
+
+  * Tue 13 Jan, 2026 (19:35) - Wed 14 Jan, 2026 (09:45)
+    20h10
+    655 €, Economy, Cathay Pacific/SWISS
+    SGN -> HKG -> STR
+
+
+Score = 0.7343
+[KLMSearchCollector]
+ 1366 EUR
+  * Mon 22 Dec, 2025 (18:25) - Tue 23 Dec, 2025 (17:40)
+    16h15
+    700 EUR, Economy, KLM/KLM/KLM
+    STR -> AMS -> CDG -> PEK
+
+  * Mon 12 Jan, 2026 (19:00) - Tue 13 Jan, 2026 (09:15)
+    20h15
+    665 EUR, Economy, Malaysia/KLM/KLM
+    SGN -> KUL -> AMS -> STR
+
+
+Score = 0.7187
+[GoogleSearchCollector]
+ 1293 €
+  * Wed 24 Dec, 2025 (18:50) - Thu 25 Dec, 2025 (16:15)
+    14h25
+    622 €, Economy, Turkish Airlines/?
+    STR -> IST -> PEK
+
+  * Sun 11 Jan, 2026 (19:35) - Mon 12 Jan, 2026 (12:45)
+    23h10
+    671 €, Economy, Cathay Pacific/Lufthansa
+    SGN -> HKG -> STR
+
+
+Score = 0.7187
+[KLMSearchCollector]
+ 1366 EUR
+  * Sun 21 Dec, 2025 (14:30) - Mon 22 Dec, 2025 (17:40)
+    20h10
+    700 EUR, Economy, KLM/KLM/KLM
+    STR -> AMS -> CDG -> PEK
+
+  * Mon 12 Jan, 2026 (19:00) - Tue 13 Jan, 2026 (09:15)
+    20h15
+    665 EUR, Economy, Malaysia/KLM/KLM
+    SGN -> KUL -> AMS -> STR
+
+
+Score = 0.7187
+[KLMSearchCollector]
+ 1366 EUR
+  * Sun 21 Dec, 2025 (14:30) - Mon 22 Dec, 2025 (17:40)
+    20h10
+    700 EUR, Economy, KLM/KLM/KLM
+    STR -> AMS -> CDG -> PEK
+
+  * Mon 12 Jan, 2026 (19:00) - Tue 13 Jan, 2026 (09:15)
+    20h15
+    665 EUR, Economy, Malaysia/KLM/KLM
+    SGN -> KUL -> AMS -> STR
+
+
+Score = 0.7187
+[KLMSearchCollector]
+ 1366 EUR
+  * Sun 21 Dec, 2025 (14:30) - Mon 22 Dec, 2025 (17:40)
+    20h10
+    700 EUR, Economy, KLM/KLM/KLM
+    STR -> AMS -> CDG -> PEK
+
+  * Mon 12 Jan, 2026 (19:00) - Tue 13 Jan, 2026 (09:15)
+    20h15
+    665 EUR, Economy, Malaysia/KLM/KLM
+    SGN -> KUL -> AMS -> STR
+
+
+Score = 0.7187
+[KLMSearchCollector]
+ 1366 EUR
+  * Mon 22 Dec, 2025 (14:30) - Tue 23 Dec, 2025 (17:40)
+    20h10
+    700 EUR, Economy, KLM/KLM/KLM
+    STR -> AMS -> CDG -> PEK
+
+  * Mon 12 Jan, 2026 (19:00) - Tue 13 Jan, 2026 (09:15)
+    20h15
+    665 EUR, Economy, Malaysia/KLM/KLM
+    SGN -> KUL -> AMS -> STR
+
+
+Score = 0.7187
+[KLMSearchCollector]
+ 1366 EUR
+  * Mon 22 Dec, 2025 (14:30) - Tue 23 Dec, 2025 (17:40)
+    20h10
+    700 EUR, Economy, KLM/KLM/KLM
+    STR -> AMS -> CDG -> PEK
+
+  * Mon 12 Jan, 2026 (19:00) - Tue 13 Jan, 2026 (09:15)
+    20h15
+    665 EUR, Economy, Malaysia/KLM/KLM
+    SGN -> KUL -> AMS -> STR
+
+
+Score = 0.7157
+[GoogleSearchCollector]
+ 1196 €
+  * Tue 23 Dec, 2025 (13:35) - Wed 24 Dec, 2025 (16:15)
+    19h40
+    622 €, Economy, Turkish Airlines/?
+    STR -> IST -> PEK
+
+  * Tue 13 Jan, 2026 (06:35) - Tue 13 Jan, 2026 (17:55)
+    17h20
+    574 €, Economy, Turkish Airlines/?
+    SGN -> IST -> STR
+
+
+Score = 0.7147
+[GoogleSearchCollector]
+ 1068 €
+  * Wed 24 Dec, 2025 (13:35) - Thu 25 Dec, 2025 (09:45)
+    13h10
+    494 €, Economy, MIAT/?
+    FRA -> UBN -> PEK
+
+  * Tue 13 Jan, 2026 (06:35) - Tue 13 Jan, 2026 (17:55)
+    17h20
+    574 €, Economy, Turkish Airlines/?
+    SGN -> IST -> STR
+
+
+Score = 0.7143
+[GoogleSearchCollector]
+ 1151 €
+  * Tue 23 Dec, 2025 (13:35) - Wed 24 Dec, 2025 (16:15)
+    19h40
+    622 €, Economy, Turkish Airlines/?
+    STR -> IST -> PEK
+
+  * Mon 12 Jan, 2026 (19:40) - Tue 13 Jan, 2026 (10:10)
+    20h30
+    529 €, Economy, Qatar Airways/Lufthansa
+    SGN -> DOH -> STR
+
+
+Score = 0.7139
+[GoogleSearchCollector]
+ 1237 €
+  * Wed 24 Dec, 2025 (18:50) - Thu 25 Dec, 2025 (16:15)
+    14h25
+    622 €, Economy, Turkish Airlines/?
+    STR -> IST -> PEK
+
+  * Sun 11 Jan, 2026 (19:40) - Mon 12 Jan, 2026 (10:10)
+    20h30
+    615 €, Economy, Qatar Airways/Lufthansa
+    SGN -> DOH -> STR
+
+
+Score = 0.7137
+[GoogleSearchCollector]
+ 1277 €
+  * Tue 23 Dec, 2025 (13:35) - Wed 24 Dec, 2025 (16:15)
+    19h40
+    622 €, Economy, Turkish Airlines/?
+    STR -> IST -> PEK
+
+  * Tue 13 Jan, 2026 (19:35) - Wed 14 Jan, 2026 (09:45)
+    20h10
+    655 €, Economy, Cathay Pacific/SWISS
+    SGN -> HKG -> STR
+
+
+Score = 0.7133
+[GoogleSearchCollector]
+ 1023 €
+  * Wed 24 Dec, 2025 (13:35) - Thu 25 Dec, 2025 (09:45)
+    13h10
+    494 €, Economy, MIAT/?
+    FRA -> UBN -> PEK
+
+  * Mon 12 Jan, 2026 (19:40) - Tue 13 Jan, 2026 (10:10)
+    20h30
+    529 €, Economy, Qatar Airways/Lufthansa
+    SGN -> DOH -> STR
+
+
+Score = 0.7127
+[GoogleSearchCollector]
+ 1149 €
+  * Wed 24 Dec, 2025 (13:35) - Thu 25 Dec, 2025 (09:45)
+    13h10
+    494 €, Economy, MIAT/?
+    FRA -> UBN -> PEK
+
+  * Tue 13 Jan, 2026 (19:35) - Wed 14 Jan, 2026 (09:45)
+    20h10
+    655 €, Economy, Cathay Pacific/SWISS
+    SGN -> HKG -> STR
+
+
+Score = 0.7119
+[GoogleSearchCollector]
+ 1296 €
+  * Mon 22 Dec, 2025 (18:50) - Tue 23 Dec, 2025 (16:15)
+    14h25
+    722 €, Economy, Turkish Airlines/?
+    STR -> IST -> PEK
+
+  * Tue 13 Jan, 2026 (06:35) - Tue 13 Jan, 2026 (17:55)
+    17h20
+    574 €, Economy, Turkish Airlines/?
+    SGN -> IST -> STR
+
+
+Score = 0.7119
+[GoogleSearchCollector]
+ 1296 €
+  * Tue 23 Dec, 2025 (18:50) - Wed 24 Dec, 2025 (16:15)
+    14h25
+    722 €, Economy, Turkish Airlines/?
+    STR -> IST -> PEK
+
+  * Tue 13 Jan, 2026 (06:35) - Tue 13 Jan, 2026 (17:55)
+    17h20
+    574 €, Economy, Turkish Airlines/?
+    SGN -> IST -> STR
+
+
+Score = 0.7117
+[KLMSearchCollector]
+ 1457 EUR
+  * Sun 21 Dec, 2025 (18:25) - Mon 22 Dec, 2025 (17:40)
+    16h15
+    791 EUR, Economy, KLM/KLM/KLM
+    STR -> AMS -> CDG -> PEK
+
+  * Mon 12 Jan, 2026 (19:00) - Tue 13 Jan, 2026 (09:15)
+    20h15
+    665 EUR, Economy, Malaysia/KLM/KLM
+    SGN -> KUL -> AMS -> STR
+
+
+Score = 0.7117
+[KLMSearchCollector]
+ 1457 EUR
+  * Tue 23 Dec, 2025 (18:25) - Wed 24 Dec, 2025 (17:40)
+    16h15
+    791 EUR, Economy, KLM/KLM/KLM
+    STR -> AMS -> CDG -> PEK
+
+  * Mon 12 Jan, 2026 (19:00) - Tue 13 Jan, 2026 (09:15)
+    20h15
+    665 EUR, Economy, Malaysia/KLM/KLM
+    SGN -> KUL -> AMS -> STR
+
+
+Score = 0.7107
+[KLMSearchCollector]
+ 1433 EUR
+  * Sun 21 Dec, 2025 (14:50) - Mon 22 Dec, 2025 (17:40)
+    19h50
+    659 EUR, Economy, Air France/Air France
+    STR -> CDG -> PEK
+
+  * Sun 11 Jan, 2026 (09:45) - Sun 11 Jan, 2026 (22:10)
+    18h25
+    774 EUR, Economy, Air France/Air France
+    SGN -> CDG -> STR
+
+
+Score = 0.7107
+[KLMSearchCollector]
+ 1433 EUR
+  * Mon 22 Dec, 2025 (14:50) - Tue 23 Dec, 2025 (17:40)
+    19h50
+    659 EUR, Economy, Air France/Air France
+    STR -> CDG -> PEK
+
+  * Sun 11 Jan, 2026 (09:45) - Sun 11 Jan, 2026 (22:10)
+    18h25
+    774 EUR, Economy, Air France/Air France
+    SGN -> CDG -> STR
+
+
+Score = 0.7107
+[KLMSearchCollector]
+ 1433 EUR
+  * Tue 23 Dec, 2025 (14:50) - Wed 24 Dec, 2025 (17:40)
+    19h50
+    659 EUR, Economy, Air France/Air France
+    STR -> CDG -> PEK
+
+  * Sun 11 Jan, 2026 (09:45) - Sun 11 Jan, 2026 (22:10)
+    18h25
+    774 EUR, Economy, Air France/Air France
+    SGN -> CDG -> STR
+
+
+Score = 0.7104
+[GoogleSearchCollector]
+ 1251 €
+  * Mon 22 Dec, 2025 (18:50) - Tue 23 Dec, 2025 (16:15)
+    14h25
+    722 €, Economy, Turkish Airlines/?
+    STR -> IST -> PEK
+
+  * Mon 12 Jan, 2026 (19:40) - Tue 13 Jan, 2026 (10:10)
+    20h30
+    529 €, Economy, Qatar Airways/Lufthansa
+    SGN -> DOH -> STR
+
+
+Score = 0.7104
+[GoogleSearchCollector]
+ 1251 €
+  * Tue 23 Dec, 2025 (18:50) - Wed 24 Dec, 2025 (16:15)
+    14h25
+    722 €, Economy, Turkish Airlines/?
+    STR -> IST -> PEK
+
+  * Mon 12 Jan, 2026 (19:40) - Tue 13 Jan, 2026 (10:10)
+    20h30
+    529 €, Economy, Qatar Airways/Lufthansa
+    SGN -> DOH -> STR
+
+
+Score = 0.7098
+[GoogleSearchCollector]
+ 1377 €
+  * Mon 22 Dec, 2025 (18:50) - Tue 23 Dec, 2025 (16:15)
+    14h25
+    722 €, Economy, Turkish Airlines/?
+    STR -> IST -> PEK
+
+  * Tue 13 Jan, 2026 (19:35) - Wed 14 Jan, 2026 (09:45)
+    20h10
+    655 €, Economy, Cathay Pacific/SWISS
+    SGN -> HKG -> STR
+
+
+Score = 0.7098
+[GoogleSearchCollector]
+ 1377 €
+  * Tue 23 Dec, 2025 (18:50) - Wed 24 Dec, 2025 (16:15)
+    14h25
+    722 €, Economy, Turkish Airlines/?
+    STR -> IST -> PEK
+
+  * Tue 13 Jan, 2026 (19:35) - Wed 14 Jan, 2026 (09:45)
+    20h10
+    655 €, Economy, Cathay Pacific/SWISS
+    SGN -> HKG -> STR
+
+
+Score = 0.7090
+[GoogleSearchCollector]
+ 1196 €
+  * Wed 24 Dec, 2025 (10:15) - Thu 25 Dec, 2025 (07:15)
+    14h00
+    622 €, Economy, Turkish Airlines/?
+    STR -> IST -> PEK
+
+  * Tue 13 Jan, 2026 (06:35) - Tue 13 Jan, 2026 (17:55)
+    17h20
+    574 €, Economy, Turkish Airlines/?
+    SGN -> IST -> STR
+
+
+Score = 0.7076
+[KLMSearchCollector]
+ 1523 EUR
+  * Mon 22 Dec, 2025 (11:55) - Tue 23 Dec, 2025 (09:55)
+    15h00
+    749 EUR, Economy, KLM/KLM
+    STR -> AMS -> PEK
+
+  * Sun 11 Jan, 2026 (09:45) - Sun 11 Jan, 2026 (22:10)
+    18h25
+    774 EUR, Economy, Air France/Air France
+    SGN -> CDG -> STR
+
+
+Score = 0.7075
+[GoogleSearchCollector]
+ 1151 €
+  * Wed 24 Dec, 2025 (10:15) - Thu 25 Dec, 2025 (07:15)
+    14h00
+    622 €, Economy, Turkish Airlines/?
+    STR -> IST -> PEK
+
+  * Mon 12 Jan, 2026 (19:40) - Tue 13 Jan, 2026 (10:10)
+    20h30
+    529 €, Economy, Qatar Airways/Lufthansa
+    SGN -> DOH -> STR
+
+
+Score = 0.7070
+[KLMSearchCollector]
+ 1446 EUR
+  * Mon 22 Dec, 2025 (18:25) - Tue 23 Dec, 2025 (17:40)
+    16h15
+    672 EUR, Economy, KLM/KLM/KLM
+    STR -> AMS -> CDG -> PEK
+
+  * Sun 11 Jan, 2026 (09:45) - Sun 11 Jan, 2026 (22:10)
+    18h25
+    774 EUR, Economy, Air France/Air France
+    SGN -> CDG -> STR
+
+
+Score = 0.7069
+[GoogleSearchCollector]
+ 1277 €
+  * Wed 24 Dec, 2025 (10:15) - Thu 25 Dec, 2025 (07:15)
+    14h00
+    622 €, Economy, Turkish Airlines/?
+    STR -> IST -> PEK
+
+  * Tue 13 Jan, 2026 (19:35) - Wed 14 Jan, 2026 (09:45)
+    20h10
+    655 €, Economy, Cathay Pacific/SWISS
+    SGN -> HKG -> STR
+
+
+Score = 0.7036
+[GoogleSearchCollector]
+ 1090 €
+  * Wed 24 Dec, 2025 (18:50) - Thu 25 Dec, 2025 (16:15)
+    14h25
+    622 €, Economy, Turkish Airlines/?
+    STR -> IST -> PEK
+
+  * Mon 12 Jan, 2026 (19:35) - Tue 13 Jan, 2026 (07:05)
+    17h30
+    468 €, Economy, Cathay Pacific/?
+    SGN -> HKG -> FRA
+
+
+Score = 0.7006
+[GoogleSearchCollector]
+ 1090 €
+  * Wed 24 Dec, 2025 (18:50) - Thu 25 Dec, 2025 (16:15)
+    14h25
+    622 €, Economy, Turkish Airlines/?
+    STR -> IST -> PEK
+
+  * Mon 12 Jan, 2026 (19:35) - Tue 13 Jan, 2026 (07:50)
+    18h15
+    468 €, Economy, Cathay Pacific/?
+    SGN -> HKG -> MUC
+
+
+Score = 0.7003
+[GoogleSearchCollector]
+ 1091 €
+  * Wed 24 Dec, 2025 (18:50) - Thu 25 Dec, 2025 (16:15)
+    14h25
+    622 €, Economy, Turkish Airlines/?
+    STR -> IST -> PEK
+
+  * Sun 11 Jan, 2026 (19:35) - Mon 12 Jan, 2026 (07:50)
+    18h15
+    469 €, Economy, Cathay Pacific/?
+    SGN -> HKG -> MUC
+
+
+Score = 0.7000
+[KLMSearchCollector]
+ 1548 EUR
+  * Mon 22 Dec, 2025 (09:45) - Tue 23 Dec, 2025 (09:55)
+    17h10
+    883 EUR, Economy, KLM/KLM
+    STR -> AMS -> PEK
+
+  * Mon 12 Jan, 2026 (19:00) - Tue 13 Jan, 2026 (09:15)
+    20h15
+    665 EUR, Economy, Malaysia/KLM/KLM
+    SGN -> KUL -> AMS -> STR
+
+
+Score = 0.6977
+[GoogleSearchCollector]
+ 1293 €
+  * Tue 23 Dec, 2025 (13:35) - Wed 24 Dec, 2025 (16:15)
+    19h40
+    622 €, Economy, Turkish Airlines/?
+    STR -> IST -> PEK
+
+  * Sun 11 Jan, 2026 (19:35) - Mon 12 Jan, 2026 (12:45)
+    23h10
+    671 €, Economy, Cathay Pacific/Lufthansa
+    SGN -> HKG -> STR
+
+
+Score = 0.6967
+[GoogleSearchCollector]
+ 1165 €
+  * Wed 24 Dec, 2025 (13:35) - Thu 25 Dec, 2025 (09:45)
+    13h10
+    494 €, Economy, MIAT/?
+    FRA -> UBN -> PEK
+
+  * Sun 11 Jan, 2026 (19:35) - Mon 12 Jan, 2026 (12:45)
+    23h10
+    671 €, Economy, Cathay Pacific/Lufthansa
+    SGN -> HKG -> STR
+
+
+Score = 0.6964
+[KLMSearchCollector]
+ 1376 EUR
+  * Sun 21 Dec, 2025 (14:50) - Mon 22 Dec, 2025 (17:40)
+    19h50
+    655 EUR, Economy, Air France/Air France
+    STR -> CDG -> PEK
+
+  * Sun 11 Jan, 2026 (09:45) - Sun 11 Jan, 2026 (21:55)
+    18h10
+    721 EUR, Economy, Air France/Air France
+    SGN -> CDG -> MUC
+
+
+Score = 0.6964
+[KLMSearchCollector]
+ 1376 EUR
+  * Mon 22 Dec, 2025 (14:50) - Tue 23 Dec, 2025 (17:40)
+    19h50
+    655 EUR, Economy, Air France/Air France
+    STR -> CDG -> PEK
+
+  * Sun 11 Jan, 2026 (09:45) - Sun 11 Jan, 2026 (21:55)
+    18h10
+    721 EUR, Economy, Air France/Air France
+    SGN -> CDG -> MUC
+
+
+Score = 0.6964
+[KLMSearchCollector]
+ 1376 EUR
+  * Tue 23 Dec, 2025 (14:50) - Wed 24 Dec, 2025 (17:40)
+    19h50
+    655 EUR, Economy, Air France/Air France
+    STR -> CDG -> PEK
+
+  * Sun 11 Jan, 2026 (09:45) - Sun 11 Jan, 2026 (21:55)
+    18h10
+    721 EUR, Economy, Air France/Air France
+    SGN -> CDG -> MUC
+
+
+Score = 0.6960
+[KLMSearchCollector]
+ 1457 EUR
+  * Sun 21 Dec, 2025 (14:30) - Mon 22 Dec, 2025 (17:40)
+    20h10
+    791 EUR, Economy, KLM/KLM/KLM
+    STR -> AMS -> CDG -> PEK
+
+  * Mon 12 Jan, 2026 (19:00) - Tue 13 Jan, 2026 (09:15)
+    20h15
+    665 EUR, Economy, Malaysia/KLM/KLM
+    SGN -> KUL -> AMS -> STR
+
+
+Score = 0.6960
+[KLMSearchCollector]
+ 1457 EUR
+  * Tue 23 Dec, 2025 (14:30) - Wed 24 Dec, 2025 (17:40)
+    20h10
+    791 EUR, Economy, KLM/KLM/KLM
+    STR -> AMS -> CDG -> PEK
+
+  * Mon 12 Jan, 2026 (19:00) - Tue 13 Jan, 2026 (09:15)
+    20h15
+    665 EUR, Economy, Malaysia/KLM/KLM
+    SGN -> KUL -> AMS -> STR
+
+
+Score = 0.6960
+[KLMSearchCollector]
+ 1457 EUR
+  * Tue 23 Dec, 2025 (14:30) - Wed 24 Dec, 2025 (17:40)
+    20h10
+    791 EUR, Economy, KLM/KLM/KLM
+    STR -> AMS -> CDG -> PEK
+
+  * Mon 12 Jan, 2026 (19:00) - Tue 13 Jan, 2026 (09:15)
+    20h15
+    665 EUR, Economy, Malaysia/KLM/KLM
+    SGN -> KUL -> AMS -> STR
+
+
+Score = 0.6960
+[KLMSearchCollector]
+ 1457 EUR
+  * Tue 23 Dec, 2025 (14:30) - Wed 24 Dec, 2025 (17:40)
+    20h10
+    791 EUR, Economy, KLM/KLM/KLM
+    STR -> AMS -> CDG -> PEK
+
+  * Mon 12 Jan, 2026 (19:00) - Tue 13 Jan, 2026 (09:15)
+    20h15
+    665 EUR, Economy, Malaysia/KLM/KLM
+    SGN -> KUL -> AMS -> STR
+
+
+Score = 0.6960
+[KLMSearchCollector]
+ 1457 EUR
+  * Tue 23 Dec, 2025 (14:30) - Wed 24 Dec, 2025 (17:40)
+    20h10
+    791 EUR, Economy, KLM/KLM/KLM
+    STR -> AMS -> CDG -> PEK
+
+  * Mon 12 Jan, 2026 (19:00) - Tue 13 Jan, 2026 (09:15)
+    20h15
+    665 EUR, Economy, Malaysia/KLM/KLM
+    SGN -> KUL -> AMS -> STR
+
+
+
+----------------------------------------
+
+Results for plan "ToVietnam":
+---------------------------------
+
+Score = 0.6471
+[GoogleSearchCollector]
+ 82 €
+  * Sat 27 Dec, 2025 (01:20) - Sat 27 Dec, 2025 (04:10)
+    3h56
+    82 €, Economy, Vietjet
+    PKX -> HAN
+
+
+Score = 0.6471
+[GoogleSearchCollector]
+ 82 €
+  * Wed 31 Dec, 2025 (01:20) - Wed 31 Dec, 2025 (04:10)
+    3h56
+    82 €, Economy, Vietjet
+    PKX -> HAN
+
+
+Score = 0.6404
+[GoogleSearchCollector]
+ 85 €
+  * Sat 27 Dec, 2025 (13:15) - Sat 27 Dec, 2025 (19:20)
+    7h11
+    85 €, Economy, China Southern/?
+    PKX -> CSX -> HAN
+
+
+Score = 0.6404
+[GoogleSearchCollector]
+ 85 €
+  * Sun 28 Dec, 2025 (13:15) - Sun 28 Dec, 2025 (19:20)
+    7h11
+    85 €, Economy, China Southern/?
+    PKX -> CSX -> HAN
+
+
+Score = 0.6404
+[GoogleSearchCollector]
+ 85 €
+  * Tue 30 Dec, 2025 (13:15) - Tue 30 Dec, 2025 (19:20)
+    7h11
+    85 €, Economy, China Southern/?
+    PKX -> CSX -> HAN
+
+
+Score = 0.6404
+[GoogleSearchCollector]
+ 85 €
+  * Wed 31 Dec, 2025 (13:15) - Wed 31 Dec, 2025 (19:20)
+    7h11
+    85 €, Economy, China Southern/?
+    PKX -> CSX -> HAN
+
+
+Score = 0.6389
+[GoogleSearchCollector]
+ 85 €
+  * Sat 27 Dec, 2025 (12:30) - Sat 27 Dec, 2025 (18:40)
+    7h16
+    85 €, Economy, China Southern/?
+    PKX -> CAN -> HAN
+
+
+Score = 0.6389
+[GoogleSearchCollector]
+ 85 €
+  * Mon 29 Dec, 2025 (12:30) - Mon 29 Dec, 2025 (18:40)
+    7h16
+    85 €, Economy, China Southern/?
+    PKX -> CAN -> HAN
+
+
+Score = 0.6389
+[GoogleSearchCollector]
+ 85 €
+  * Wed 31 Dec, 2025 (12:30) - Wed 31 Dec, 2025 (18:40)
+    7h16
+    85 €, Economy, China Southern/?
+    PKX -> CAN -> HAN
+
+
+Score = 0.6275
+[GoogleSearchCollector]
+ 92 €
+  * Mon 29 Dec, 2025 (01:20) - Mon 29 Dec, 2025 (04:10)
+    3h56
+    92 €, Economy, Vietjet
+    PKX -> HAN
+
+
+Score = 0.6275
+[GoogleSearchCollector]
+ 92 €
+  * Tue 30 Dec, 2025 (01:20) - Tue 30 Dec, 2025 (04:10)
+    3h56
+    92 €, Economy, Vietjet
+    PKX -> HAN
+
+
+Score = 0.5908
+[GoogleSearchCollector]
+ 99 €
+  * Tue 30 Dec, 2025 (01:05) - Tue 30 Dec, 2025 (05:10)
+    5h11
+    99 €, Economy, Vietjet
+    PKX -> SGN
+
+
+Score = 0.5908
+[GoogleSearchCollector]
+ 99 €
+  * Wed 31 Dec, 2025 (01:05) - Wed 31 Dec, 2025 (05:10)
+    5h11
+    99 €, Economy, Vietjet
+    PKX -> SGN
+
+
+Score = 0.5785
+[GoogleSearchCollector]
+ 85 €
+  * Sat 27 Dec, 2025 (08:30) - Sat 27 Dec, 2025 (14:45)
+    7h21
+    85 €, Economy, China Southern/?
+    PKX -> CAN -> HAN
+
+
+Score = 0.5785
+[GoogleSearchCollector]
+ 85 €
+  * Sun 28 Dec, 2025 (08:30) - Sun 28 Dec, 2025 (14:45)
+    7h21
+    85 €, Economy, China Southern/?
+    PKX -> CAN -> HAN
+
+
+Score = 0.5785
+[GoogleSearchCollector]
+ 85 €
+  * Mon 29 Dec, 2025 (08:30) - Mon 29 Dec, 2025 (14:45)
+    7h21
+    85 €, Economy, China Southern/?
+    PKX -> CAN -> HAN
+
+
+Score = 0.5785
+[GoogleSearchCollector]
+ 85 €
+  * Tue 30 Dec, 2025 (08:30) - Tue 30 Dec, 2025 (14:45)
+    7h21
+    85 €, Economy, China Southern/?
+    PKX -> CAN -> HAN
+
+
+Score = 0.5785
+[GoogleSearchCollector]
+ 85 €
+  * Wed 31 Dec, 2025 (08:30) - Wed 31 Dec, 2025 (14:45)
+    7h21
+    85 €, Economy, China Southern/?
+    PKX -> CAN -> HAN
+
+
+Score = 0.5732
+[GoogleSearchCollector]
+ 108 €
+  * Sat 27 Dec, 2025 (01:05) - Sat 27 Dec, 2025 (05:10)
+    5h11
+    108 €, Economy, Vietjet
+    PKX -> SGN
+
+
+Score = 0.5732
+[GoogleSearchCollector]
+ 108 €
+  * Mon 29 Dec, 2025 (01:05) - Mon 29 Dec, 2025 (05:10)
+    5h11
+    108 €, Economy, Vietjet
+    PKX -> SGN
+
+
+Score = 0.5678
+[GoogleSearchCollector]
+ 85 €
+  * Sat 27 Dec, 2025 (18:30) - Sun 28 Dec, 2025 (01:20)
+    7h56
+    85 €, Economy, China Southern/?
+    PKX -> CAN -> SGN
+
+
+Score = 0.5678
+[GoogleSearchCollector]
+ 85 €
+  * Sun 28 Dec, 2025 (18:30) - Mon 29 Dec, 2025 (01:20)
+    7h56
+    85 €, Economy, China Southern/?
+    PKX -> CAN -> SGN
+
+
+Score = 0.5541
+[GoogleSearchCollector]
+ 85 €
+  * Sat 27 Dec, 2025 (07:30) - Sat 27 Dec, 2025 (15:05)
+    8h41
+    85 €, Economy, China Southern/?
+    PKX -> CAN -> SGN
+
+
+Score = 0.5541
+[GoogleSearchCollector]
+ 85 €
+  * Sun 28 Dec, 2025 (07:30) - Sun 28 Dec, 2025 (15:05)
+    8h41
+    85 €, Economy, China Southern/?
+    PKX -> CAN -> SGN
+
+
+Score = 0.5350
+[GoogleSearchCollector]
+ 84 €
+  * Sat 27 Dec, 2025 (17:00) - Sun 28 Dec, 2025 (01:50)
+    9h50
+    84 €, Economy, Shenzhen/?
+    PEK -> SZX -> SGN
+
+
+Score = 0.5350
+[GoogleSearchCollector]
+ 84 €
+  * Tue 30 Dec, 2025 (17:00) - Wed 31 Dec, 2025 (01:50)
+    9h50
+    84 €, Economy, Shenzhen/?
+    PEK -> SZX -> SGN
+
+
+Score = 0.5151
+[GoogleSearchCollector]
+ 121 €
+  * Wed 31 Dec, 2025 (16:00) - Thu 01 Jan, 2026 (01:10)
+    10h10
+    121 €, Economy, China Eastern
+    PEK -> SGN
+
+
+Score = 0.5105
+[GoogleSearchCollector]
+ 85 €
+  * Mon 29 Dec, 2025 (16:30) - Mon 29 Dec, 2025 (23:15)
+    7h51
+    85 €, Economy, China Southern/?
+    PKX -> CAN -> HAN
+
+
+Score = 0.4942
+[GoogleSearchCollector]
+ 111 €
+  * Sat 27 Dec, 2025 (17:00) - Sun 28 Dec, 2025 (01:10)
+    9h10
+    111 €, Economy, Shenzhen/?
+    PEK -> SZX -> HAN
+
+
+Score = 0.4942
+[GoogleSearchCollector]
+ 111 €
+  * Tue 30 Dec, 2025 (17:00) - Wed 31 Dec, 2025 (01:10)
+    9h10
+    111 €, Economy, Shenzhen/?
+    PEK -> SZX -> HAN
+
+
+Score = 0.4939
+[GoogleSearchCollector]
+ 97 €
+  * Sun 28 Dec, 2025 (15:25) - Mon 29 Dec, 2025 (01:00)
+    10h41
+    97 €, Economy, China Eastern/?
+    PKX -> HGH -> SGN
+
+
+Score = 0.4939
+[GoogleSearchCollector]
+ 97 €
+  * Mon 29 Dec, 2025 (15:25) - Tue 30 Dec, 2025 (01:00)
+    10h41
+    97 €, Economy, China Eastern/?
+    PKX -> HGH -> SGN
+
+
+Score = 0.4939
+[GoogleSearchCollector]
+ 97 €
+  * Wed 31 Dec, 2025 (15:25) - Thu 01 Jan, 2026 (01:00)
+    10h41
+    97 €, Economy, China Eastern/?
+    PKX -> HGH -> SGN
+
+
+Score = 0.4930
+[GoogleSearchCollector]
+ 121 €
+  * Sat 27 Dec, 2025 (07:00) - Sat 27 Dec, 2025 (14:10)
+    8h10
+    121 €, Economy, China Eastern/?
+    PEK -> PVG -> HAN
+
+
+Score = 0.4930
+[GoogleSearchCollector]
+ 121 €
+  * Sun 28 Dec, 2025 (07:00) - Sun 28 Dec, 2025 (14:10)
+    8h10
+    121 €, Economy, China Eastern/?
+    PEK -> PVG -> HAN
+
+
+Score = 0.4930
+[GoogleSearchCollector]
+ 121 €
+  * Mon 29 Dec, 2025 (07:00) - Mon 29 Dec, 2025 (14:10)
+    8h10
+    121 €, Economy, China Eastern/?
+    PEK -> PVG -> HAN
+
+
+Score = 0.4930
+[GoogleSearchCollector]
+ 121 €
+  * Tue 30 Dec, 2025 (07:00) - Tue 30 Dec, 2025 (14:10)
+    8h10
+    121 €, Economy, China Eastern/?
+    PEK -> PVG -> HAN
+
+
+Score = 0.4930
+[GoogleSearchCollector]
+ 121 €
+  * Wed 31 Dec, 2025 (07:00) - Wed 31 Dec, 2025 (14:10)
+    8h10
+    121 €, Economy, China Eastern/?
+    PEK -> PVG -> HAN
+
+
+Score = 0.4857
+[GoogleSearchCollector]
+ 136 €
+  * Tue 30 Dec, 2025 (16:00) - Wed 31 Dec, 2025 (01:10)
+    10h10
+    136 €, Economy, China Eastern
+    PEK -> SGN
+
+
+Score = 0.4832
+[GoogleSearchCollector]
+ 156 €
+  * Sun 28 Dec, 2025 (11:30) - Sun 28 Dec, 2025 (18:40)
+    8h10
+    156 €, Economy, Shenzhen/?
+    PEK -> SZX -> HAN
+
+
+Score = 0.4832
+[GoogleSearchCollector]
+ 156 €
+  * Wed 31 Dec, 2025 (11:30) - Wed 31 Dec, 2025 (18:40)
+    8h10
+    156 €, Economy, Shenzhen/?
+    PEK -> SZX -> HAN
+
+
+Score = 0.4817
+[GoogleSearchCollector]
+ 111 €
+  * Tue 30 Dec, 2025 (07:15) - Tue 30 Dec, 2025 (16:00)
+    9h51
+    111 €, Economy, China Eastern/?
+    PKX -> KMG -> SGN
+
+
+Score = 0.4597
+[GoogleSearchCollector]
+ 109 €
+  * Mon 29 Dec, 2025 (18:30) - Tue 30 Dec, 2025 (04:40)
+    11h16
+    109 €, Economy, China Eastern/?
+    PKX -> NKG -> SGN
+
+
+Score = 0.4546
+[GoogleSearchCollector]
+ 125 €
+  * Sun 28 Dec, 2025 (17:00) - Mon 29 Dec, 2025 (01:50)
+    9h50
+    125 €, Economy, Shenzhen/?
+    PEK -> SZX -> SGN
+
+
+Score = 0.4546
+[GoogleSearchCollector]
+ 125 €
+  * Mon 29 Dec, 2025 (17:00) - Tue 30 Dec, 2025 (01:50)
+    9h50
+    125 €, Economy, Shenzhen/?
+    PEK -> SZX -> SGN
+
+
+Score = 0.4512
+[GoogleSearchCollector]
+ 147 €
+  * Sat 27 Dec, 2025 (03:25) - Sat 27 Dec, 2025 (10:05)
+    7h40
+    147 €, Economy, Cathay Pacific/?
+    PEK -> HKG -> HAN
+
+
+Score = 0.4512
+[GoogleSearchCollector]
+ 147 €
+  * Sun 28 Dec, 2025 (03:25) - Sun 28 Dec, 2025 (10:05)
+    7h40
+    147 €, Economy, Cathay Pacific/?
+    PEK -> HKG -> HAN
+
+
+Score = 0.4420
+[GoogleSearchCollector]
+ 147 €
+  * Sun 28 Dec, 2025 (03:25) - Sun 28 Dec, 2025 (10:35)
+    8h10
+    147 €, Economy, Cathay Pacific/?
+    PEK -> HKG -> SGN
+
+
+Score = 0.4333
+[GoogleSearchCollector]
+ 101 €
+  * Mon 29 Dec, 2025 (20:30) - Tue 30 Dec, 2025 (12:10)
+    16h46
+    101 €, Economy, China Southern/?
+    PKX -> PVG -> SGN
+
+
+Score = 0.4288
+[GoogleSearchCollector]
+ 121 €
+  * Wed 31 Dec, 2025 (14:30) - Thu 01 Jan, 2026 (01:10)
+    11h40
+    121 €, Economy, China Eastern/?
+    PEK -> PVG -> SGN
+
+
+Score = 0.4254
+[GoogleSearchCollector]
+ 136 €
+  * Mon 29 Dec, 2025 (08:30) - Mon 29 Dec, 2025 (17:45)
+    10h15
+    136 €, Economy, China Eastern/?
+    PEK -> PVG -> HAN
+
+
+
+----------------------------------------
+

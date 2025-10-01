@@ -12,7 +12,7 @@ options:
           - "2025-12-23"
           - "2025-12-24"
       - origins:
-#          - "HAN"
+          - "HAN"
           - "SGN"
         destinations:
           - "STR"
@@ -32,31 +32,31 @@ options:
     seat: Economy
     currency: EUR
     name: MainLegs
-#  - legs:
-#      - origins:
-#          - "PEK"
-#          - "PKX"
-#        destinations:
-#          - "HAN"
-##          - "DAD"
-#          - "SGN"
-#        dates:
-#          - "2025-12-27"
-#          - "2025-12-28"
-#          - "2025-12-29"
-#          - "2025-12-30"
-#          - "2025-12-31"
-#    passengers:
-#      adults: 1
-#    filters:
-#      - __name: LuggageSearchFilter
-#        checked: 1
-#    seat: Economy
-#    currency: EUR
-#    name: ToVietnam
+  - legs:
+      - origins:
+          - "PEK"
+          - "PKX"
+        destinations:
+          - "HAN"
+#          - "DAD"
+          - "SGN"
+        dates:
+          - "2025-12-27"
+          - "2025-12-28"
+          - "2025-12-29"
+          - "2025-12-30"
+          - "2025-12-31"
+    passengers:
+      adults: 1
+    filters:
+      - __name: LuggageSearchFilter
+        checked: 1
+    seat: Economy
+    currency: EUR
+    name: ToVietnam
 
 collectors:
-#  - KLMSearchCollector
+  - KLMSearchCollector
   - GoogleSearchCollector
 restrictions:
   - __name: CollectorJourneyRestriction

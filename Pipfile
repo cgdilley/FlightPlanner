@@ -6,7 +6,7 @@ name = "pypi"
 [dev-packages]
 
 [packages]
-sprelf-json = {editable = true, path = "../Modules/SprelfJSON"}
+sprelf-json = ">=2025.09.30.3"
 tomlkit = "*"
 httpx = "*"
 "ruamel.yaml" = "*"
